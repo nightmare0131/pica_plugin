@@ -1,7 +1,7 @@
 # 漫画账号配置
-account: "huntunceshi"  # 账号
-password: "huntunceshi"  # 密码
-proxy: ""  # 代理服务器地址，可选配置，如 "http://127.0.0.1:7890"，不需要代理可留空或删除此行
+account: "nightmare33989"  # 账号
+password: "Yangchen150"  # 密码
+proxy: "http://127.0.0.1:3000"  # 代理服务器地址，可选配置，如 "http://127.0.0.1:7890"，不需要代理可留空或删除此行
 
 # 合并转发消息配置
 forward:
@@ -9,6 +9,6 @@ forward:
   sender_id: "555667899"
 
 # 其他设置
-max_preview_pages: 100  # 图片数量上限
-max_search_results: 10  # 搜索结果显示数量上限
+max_preview_pages: 50  # 图片数量上限
+max_search_results: 20  # 搜索结果显示数量上限
 max_image_height: 20000  # 单批图片合并的最大高度限制（像素） 
